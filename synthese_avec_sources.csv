@@ -1,0 +1,17 @@
+﻿Indicateur;Valeur 2023;Source
+Accès électricité Afrique SubSaharienne (%);53.2558710664349;Banque Mondiale WDI EG.ELC.ACCS.ZS / Tracking SDG7 2024
+Accès électricité Congo-Brazzaville (%);51.3;Banque Mondiale WDI EG.ELC.ACCS.ZS / IEA 2024
+Population Afrique SubSaharienne (millions);1259.889959;ONU DESA World Population Prospects 2024
+Population Congo-Brazzaville (millions);6.182885;ONU DESA World Population Prospects 2024
+Consommation élec. Afrique SubSaharienne (kWh);376.428694944726;IEA World Energy Balances 2024 / Africa Energy Outlook 2022
+Consommation élec. Congo-Brazzaville (kWh);338.353373869965;IEA Africa Energy Statistics 2024 / BAD
+Consommation/hab Afrique SubSaharienne (kWh);376.0;Calcul auteur (IEA + ONU DESA)
+Consommation/hab Congo-Brazzaville (kWh);338.0;Calcul auteur (IEA + ONU DESA)
+Capacité installée Afrique SubSaharienne (GW);32.5003512911911;IRENA Renewable Capacity Statistics 2024
+Population sans élec. Afrique SubSaharienne (M);588.9;Calcul auteur (WB + ONU DESA)
+PIB/hab Congo-Brazzaville (USD courants);2477.97845544866;Banque Mondiale WDI NY.GDP.PCAP.CD
+Projection conso 2050 — Optimiste (kWh);2339.0;Projection auteur calibrée sur IEA APS 2022
+Projection conso 2050 — Réaliste (kWh);1235.0;Projection auteur calibrée sur IEA STEPS 2022
+Projection conso 2050 — Pessimiste (kWh);953.0;Projection auteur (stagnation)
+Projection accès 2050 — Optimiste Afrique SubSaharienne (%);100.0;Projection auteur calibrée sur IEA APS 2022
+Projection accès 2050 — Réaliste Afrique SubSaharienne (%);70.0;Projection auteur calibrée sur IEA STEPS 2022
