@@ -20,7 +20,7 @@ La démographie a effacé 23 ans de progrès. En termes absolus, l'Afrique subsa
 
 \---
 
-## 🇨🇬 Le cas Congo-Brazzaville : l'injustice en données
+## Le cas Congo-Brazzaville : l'injustice en données
 
 |Indicateur|Congo-B 2023|Monde 2023|Ratio|
 |-|-|-|-|
@@ -85,16 +85,16 @@ IEA Africa Energy Outlook 2022
 ## Contenu du projet
 
 ```
-energie\_afrique\_2050/
+energie\\\\\\\_afrique\\\\\\\_2050/
 │
-├── analyse\_energie\_part\_1.py   ← Script principal (400+ lignes commentées)
+├── analyse\\\\\\\_energie\\\\\\\_part\\\\\\\_1.py   ← Script principal (400+ lignes commentées)
 │
-├──├── 01\_dashboard\_donnees\_reelles.png  ← Dashboard 4 panneaux
-│   ├── 02\_scenarios\_2050.png             ← Comparaison 3 scénarios
-│   ├── 03\_defi\_capacite.png              ← Infographie dark mode
-│   ├── donnees\_reelles\_2000\_2023.csv     ← Données réelles vérifiées
-│   ├── projections\_2024\_2050.csv         ← Projections 2024–2050
-│   └── synthese\_avec\_sources.csv         ← Tableau de bord + sources
+├──├── 01\\\\\\\_dashboard\\\\\\\_donnees\\\\\\\_reelles.png  ← Dashboard 4 panneaux
+│   ├── 02\\\\\\\_scenarios\\\\\\\_2050.png             ← Comparaison 3 scénarios
+│   ├── 03\\\\\\\_defi\\\\\\\_capacite.png              ← Infographie dark mode
+│   ├── donnees\\\\\\\_reelles\\\\\\\_2000\\\\\\\_2023.csv     ← Données réelles vérifiées
+│   ├── projections\\\\\\\_2024\\\\\\\_2050.csv         ← Projections 2024–2050
+│   └── synthese\\\\\\\_avec\\\\\\\_sources.csv         ← Tableau de bord + sources
 │
 ├── README.md
 
@@ -110,19 +110,19 @@ Python 3.11+ | Pandas 3.0+ | NumPy 2.4+ | Matplotlib 3.10+ | Seaborn 0.13+
 
 ```bash
 pip install pandas numpy matplotlib seaborn
-python analyse\_energie\_part\_1.py
+python analyse\\\\\\\_energie\\\\\\\_part\\\\\\\_1.py
 ```
 
 
 
 \---
 
-## Ce projet couvre (Niveau 1/10)
+## Ce projet couvre
 
 **Python fondamentaux** — fonctions, dictionnaires, boucles, conditions, f-strings
-**Pandas** — DataFrame, `set\_index`, `isnull`, `describe`, `iloc`, `pct\_change`, `clip`, `to\_csv`
+**Pandas** — DataFrame, `set\\\\\\\_index`, `isnull`, `describe`, `iloc`, `pct\\\\\\\_change`, `clip`, `to\\\\\\\_csv`
 **NumPy** — arrays, opérations vectorisées
-**Matplotlib/Seaborn** — `subplots`, `plot`, `bar`, `fill\_between`, `annotate`, `savefig`
+**Matplotlib/Seaborn** — `subplots`, `plot`, `bar`, `fill\\\\\\\_between`, `annotate`, `savefig`
 **Mathématiques** — TCAC, croissance exponentielle, facteur de charge, interpolation
 **Méthode Data Science** — Collecte → Nettoyage → EDA → Modélisation → Visualisation → Communication
 
@@ -156,6 +156,4 @@ python analyse\_energie\_part\_1.py
 
 
 **Donnez une étoile si ce projet vous a été utile.**
-
-
 
