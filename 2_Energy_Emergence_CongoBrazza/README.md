@@ -104,9 +104,4 @@ PROJECT/01.Energy/Sem_02/
 | 6 | **ONU DESA WPP 2024** | [population.un.org/wpp](https://population.un.org/wpp/) | 
 | 7 | **Ember Climate 2024** | [ember-climate.org/data](https://ember-climate.org/data/) | 
 --- 
-## Questions ouvertes — Issues GitHub
-Q1 — Le score Congo-Brazzaville est calculé à partir de 5 critères pondérés. Si vous changiez les poids — par exemple en donnant plus d'importance aux ENR (35%) et moins au PIB (5%) — le classement changerait-il significativement ? Pourquoi ou pourquoi pas ? 
-Q2 — Le forecast utilise une régression linéaire (tendance actuelle). Quels événements extérieurs (financement BAD, mise en service Grand Inga, réforme E2C) pourraient "casser" cette droite à la hausse ? 
-Q3 — Parmi les 15 pays de référence, lequel, selon vous, représente le modèle le plus réaliste à suivre pour le Congo, compte tenu de ses spécificités géographiques, institutionnelles et économiques ? 
---- 
 ** Donnez une étoile si ce projet vous a été utile** 
