@@ -58,7 +58,7 @@ plt.rcParams['font.family']      = 'DejaVu Sans'
 plt.rcParams['axes.spines.top']  = False
 plt.rcParams['axes.spines.right']= False
 
-OUTPUT_DIR = r'C:\\Users\\buroshop\\Documents\\PROJECT\\01.Energy\Sem_02'
+OUTPUT_DIR = r'Your folder'
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 print("Bibliotheques importees avec SUCCES")
